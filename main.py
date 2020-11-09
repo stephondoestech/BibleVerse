@@ -1,4 +1,6 @@
 import verseAPI
-import  smtpServerAuth
+import smtpServerAuth
 
 #TODO: BUILD FUNC TO CALL OTHER CODE FILES
+
+verseAPI.apiCall()
