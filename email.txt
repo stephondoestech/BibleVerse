@@ -1,0 +1,3 @@
+﻿user@computer ~ $ cat email.txt
+stephon1 sgparker62@gmail.com
+stephon2 sgp2471@gmail.com
