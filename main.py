@@ -8,8 +8,8 @@ from email.mime.multipart import MIMEMultipart
 #TODO: SETUP EMAIL, FINISH BUILDING EMAIL BODY, SEND TEST EMAIL
 
 
-SENDER_ADDRESS = '26438dc37f3f01'
-PASSWORD = '3693b2d82a2421'
+SENDER_ADDRESS = '26438dc37f3f01' #Mailtrap testing credentials - NOT STATIC
+PASSWORD = '3693b2d82a2421' #Mailtrap testing credentials - NOT STATIC
 
 def get_contacts(filename):
     """
